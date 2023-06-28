@@ -1,0 +1,8 @@
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI alternance\C#\TPGestionGarage\bin\Debug\TPGestionGarage.exe.config
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI alternance\C#\TPGestionGarage\bin\Debug\TPGestionGarage.exe
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI alternance\C#\TPGestionGarage\bin\Debug\TPGestionGarage.pdb
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI alternance\C#\TPGestionGarage\obj\Debug\TPGestionGarage.csproj.AssemblyReference.cache
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI alternance\C#\TPGestionGarage\obj\Debug\TPGestionGarage.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI alternance\C#\TPGestionGarage\obj\Debug\TPGestionGarage.csproj.CoreCompileInputs.cache
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI alternance\C#\TPGestionGarage\obj\Debug\TPGestionGarage.exe
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI alternance\C#\TPGestionGarage\obj\Debug\TPGestionGarage.pdb
